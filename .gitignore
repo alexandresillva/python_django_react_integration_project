@@ -1,0 +1,7 @@
+**venv
+**node_modules
+**.sqlite3
+**.vscode
+**.idea
+**__pycache__
+**.mypy_cache
